@@ -1,0 +1,19 @@
+#messageInput {
+    padding: 5px;
+    margin-right: 10px;
+}
+#sendButton {
+    padding: 5px 10px;
+}
+.message-item {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+}
+.message-author {
+    font-weight: bold;
+}
+.message-content {
+    margin-top: 5px;
+}
